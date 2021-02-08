@@ -18,3 +18,4 @@ For restaurant admin:
 2. Register
 3. Update menu contents
 4. Deleting menu contents.
+
