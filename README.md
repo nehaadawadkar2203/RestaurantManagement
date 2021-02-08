@@ -19,3 +19,8 @@ For restaurant admin:
 3. Update menu contents
 4. Deleting menu contents.
 
+Development team:
+1. Neha adawadkar
+2. Roshani chavan
+3. Chaitra patwardhan
+4. Shrutika more
